@@ -12,6 +12,10 @@ code for the following challenges presented at the end of the tutorial:
 
 The code is compiled using [Parcel Bundler](https://parceljs.org/).
 
+## See it in action
+
+https://parambirs.github.io/react-tic-tac-toe/
+
 ## Running locally
 
 ```
